@@ -1,12 +1,9 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br/>
+<br/>
+<div align="center">
+  <img height="100" width="100" src="https://media.discordapp.net/attachments/1064596920133230642/1255590499830595805/smartworld_globe.png?ex=667daf46&is=667c5dc6&hm=cae903339a3f7d279425313890afbc564e67430a9a4460db98872ebde4d03f17&=&format=webp&quality=lossless&width=678&height=675" />
+  <h3>SmartWorld Company</h3>
+  <p align="center">
+    Empresa centrada en tecnología
+  </p>
+</div>
